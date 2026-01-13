@@ -17,7 +17,7 @@ export default function App() {
       </div>
       
       <div className="login-card">
-        <h1>sign in</h1>
+        <h1>Sign In</h1>
         
         <form onSubmit={handleSubmit}>
           <div className="form-group">
@@ -58,7 +58,7 @@ export default function App() {
           </div>
           
           <button type="submit" className="btn-primary">
-            Sign in
+            Sign In
           </button>
         </form>
         
