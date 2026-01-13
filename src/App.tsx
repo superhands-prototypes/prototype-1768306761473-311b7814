@@ -17,7 +17,7 @@ export default function App() {
       </div>
       
       <div className="login-card">
-        <h1>Sign in to your account</h1>
+        <h1>sign in</h1>
         
         <form onSubmit={handleSubmit}>
           <div className="form-group">
