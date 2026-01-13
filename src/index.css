@@ -21,15 +21,16 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif;
   min-height: 100vh;
   background: linear-gradient(135deg, 
-    #80e9ff 0%, 
-    #a5b4fc 25%, 
-    #c4b5fd 40%,
-    #f0abfc 60%,
-    #fb7185 80%,
-    #f97316 100%
+    #00d4ff 0%, 
+    #6366f1 20%, 
+    #8b5cf6 35%,
+    #d946ef 50%,
+    #ec4899 65%,
+    #f43f5e 80%,
+    #ff6b35 100%
   );
-  background-size: 400% 400%;
-  animation: gradientShift 15s ease infinite;
+  background-size: 500% 500%;
+  animation: gradientShift 12s ease infinite;
 }
 
 @keyframes gradientShift {
